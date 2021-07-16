@@ -1,15 +1,21 @@
-{% extends 'base.html' %}
+<body style="background-image: url(https://ftp.bmp.ovh/imgs/2021/07/9f69587f893c9a55.jpg);">
 
-{% block header %}
+  {% extends 'base.html' %}
+
+  {% block header %}
   <h1>{% block title %}Register{% endblock %}</h1>
-{% endblock %}
+  {% endblock %}
 
-{% block content %}
-  <form method="post">
-    <label for="username">Username</label>
-    <input name="username" id="username" required>
-    <label for="password">Password</label>
-    <input type="password" name="password" id="password" required>
-    <input type="submit" value="Register">
-  </form>
-{% endblock %}
+  {% block content %}
+  <div class="container col-md-4">
+    <form method="post">
+      <label for="username">Username</label>
+      <input name="username" id="username" required>
+      <label for="password">Password</label>
+      <input type="password" name="password" id="password" required>
+      <input type="submit" value="Register">
+    </form>
+  </div>
+
+  {% endblock %}
+</body>

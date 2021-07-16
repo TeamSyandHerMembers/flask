@@ -28,7 +28,7 @@
 ![photo3 图标](https://github.com/justina0/flask/blob/main/flaskr/static/images/photo3.png)
 
 注册
-![photo3 图标](https://github.com/justina0/flask/blob/main/flaskr/static/images/photo4 .png)
+![photo3 图标](https://github.com/justina0/flask/blob/main/flaskr/static/images/photo4.png)
 
 创建帖子
 ![photo5 图标](https://github.com/justina0/flask/blob/main/flaskr/static/images/photo5.png)

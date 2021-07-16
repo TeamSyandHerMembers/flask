@@ -15,13 +15,13 @@
 视图如下：
 
 1、注册
-![photo1 图标](https://github.com/webtestings/Flask-exercise/blob/main/web1.png)
+![photo1 图标](https://github.com/justina0/flask/blob/main/flaskr/static/images/photo1.png)
 
 2、登录
-![photo2 图标](https://github.com/webtestings/Flask-exercise/blob/main/web1.png)
+![photo2 图标](https://github.com/justina0/flask/blob/main/flaskr/static/images/photo2.png)
 
 3、创建帖子
-![photo3 图标](https://github.com/webtestings/Flask-exercise/blob/main/web1.png)
+![photo3 图标](https://github.com/justina0/flask/blob/main/flaskr/static/images/photo3.png)
 
 ## <span id="jump2">2. 安装</span>
 配置Python虚拟环境  
@@ -35,6 +35,7 @@
 
 ## <span id="jump3">3. 操作步骤</span>
 1、进入gitpod
+
 2、输入下列操作命令
 ```python
 pip install flask
